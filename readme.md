@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 # 🛠️ Languages and tools☠︎︎
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akshayxt&repo=github-readme-stats)](https://github.com/Akshayxt/Akshayxt)
 
 [![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://Akshayxt.me)
 
@@ -56,6 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 # My Stats☠︎︎
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshayxt&show_icons=true&theme=radical)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Akshayxt/Akshayxt)
 
 # Contact ☠︎︎
 <a href="https://t.me/akshay_xt"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
