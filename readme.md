@@ -59,8 +59,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://t.me/akshay_xt"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akshaygangwar.xt@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/akshayxt"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-
-git branch -m main RAXMUSICMUSICMUSICMUSIC
-git fetch origin
-git branch -u RAXMUSICMUSICMUSICMUSIC RAXMUSICMUSICMUSICMUSIC
-git remote set-head origin -a
