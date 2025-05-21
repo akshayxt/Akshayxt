@@ -1,297 +1,129 @@
+<!DOCTYPE html>
 <html lang="en">
- <head>
-  <meta charset="utf-8" />
-  <meta content="width=device-width, initial-scale=1" name="viewport" />
-  <title>Akshay Gangwar</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link
-   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
-   rel="stylesheet"
-  />
-  <link
-   href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;display=swap"
-   rel="stylesheet"
-  />
-  <link
-   href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
-   rel="stylesheet"
-  />
-  <style>
-   body {
-    font-family: "Inter", sans-serif;
-   }
-   /* Animation styles */
-   .name-container {
-    text-align: center;
-    color: #fff;
-    font-size: 2.5rem;
-    opacity: 0;
-    transform: translateY(50px);
-    animation: fadeSlideIn 2s ease-out forwards;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #0f0f0f;
-    font-family: "Poppins", sans-serif;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 50;
-  }
-   @keyframes fadeSlideIn {
-    to {
-     opacity: 1;
-     transform: translateY(0);
-    }
-   }
-  </style>
- </head>
- <body class="bg-white text-gray-900">
-  <div id="nameAnimation" class="name-container">Akshay Gangwar</div>
 
-  <div class="max-w-7xl mx-auto p-6 md:p-10">
-   <!-- Header -->
-   <div class="flex flex-col md:flex-row items-center md:items-start">
-    <div
-     class="bg-[#374151] rounded-tr-[3.5rem] rounded-br-[3.5rem] p-6 flex justify-center md:justify-start md:w-1/3"
-    >
-     <img
-      alt="Portrait of a young man with dark hair wearing a white shirt in front of a snowy mountain background"
-      class="rounded-full border-4 border-[#6B7280] w-40 h-40 object-cover"
-      height="160"
-      src="https://raw.githubusercontent.com/akshayxt/portfolio/main/photo/Untitled%20design%20-%20Copy.png"
-      width="160"
-     />
-    </div>
-    <div class="md:w-2/3 text-center md:text-left mt-6 md:mt-0 md:pl-10">
-     <h1 class="text-4xl font-extrabold leading-tight text-[#374151]">
-      <i>AKSHAY <br /> GANGWAR</i>
-     </h1>
-     <p
-      class="mt-2 text-[#374151] tracking-widest text-sm md:text-base font-semibold"
-     >
-      SOFTWARE PROGRAMER
-     </p>
-    </div>
-   </div>
-   <!-- Contact bar -->
-   <div
-    class="bg-[#374151] rounded-full flex flex-col sm:flex-row justify-between items-center text-white text-xs sm:text-sm mt-6 py-3 px-6 space-y-2 sm:space-y-0 sm:space-x-6"
-   >
-    <div class="flex items-center space-x-2">
-     <i class="fas fa-phone-alt"></i>
-     <span>+91 9720028582</span>
-    </div>
-    <div class="flex items-center space-x-2">
-     <i class="fas fa-envelope"></i>
-     <span>freefire.akshaygangwar@gmail.com</span>
-    </div>
-    <div class="flex items-center space-x-2">
-     <i class="fas fa-home"></i>
-     <span>Meerganj Bareilly Uttar Pradesh</span>
-    </div>
-   </div>
-   <div class="flex flex-col md:flex-row mt-8 gap-8">
-    <!-- Left sidebar -->
-    <aside
-     class="bg-[#374151] text-white rounded-tr-[3.5rem] rounded-br-[3.5rem] p-6 md:w-1/3 flex flex-col space-y-8"
-    >
-     <!-- Education -->
-     <section>
-      <h2
-       class="text-xl font-extrabold tracking-widest border-b border-gray-400 pb-1 mb-4"
-       style="letter-spacing: 0.15em"
-      >
-       Education
-      </h2>
-      <div class="mb-6">
-       <h3 class="font-bold text-lg mb-1">Bachelor of Technology</h3>
-       <p class="text-sm font-semibold">A.K.T.U Lucknow</p>
-       <p class="text-sm">2024-202_</p>
-      </div>
-      <div>
-       <h3 class="font-bold text-lg mb-1">12th</h3>
-       <p class="text-sm font-semibold">S.D.S.V.M.I.C UP board</p>
-       <p class="text-sm">2024</p>
-       <p class="text-sm">Paraura Meerganj Bareilly</p>
-      </div>
-     </section>
-     <!-- Certifications -->
-     <section>
-      <h2
-       class="text-xl font-extrabold tracking-widest border-b border-gray-400 pb-1 mb-4"
-       style="letter-spacing: 0.15em"
-      >
-       Certifications
-      </h2>
-      <ul class="list-disc list-inside space-y-2 text-sm">
-       <li>Certificate Of C Language</li>
-       <li>5 Year Experience In computer programing and cloud hosting</li>
-      </ul>
-     </section>
-     <!-- Skills -->
-     <section>
-      <h2
-       class="text-xl font-extrabold tracking-widest border-b border-gray-400 pb-1 mb-4"
-       style="letter-spacing: 0.15em"
-      >
-       Skills
-      </h2>
-      <ul class="text-sm space-y-1">
-       <li>Programmer</li>
-       <li>Web Desiner</li>
-       <li>Telegram Bot Developer</li>
-       <li>Creativity</li>
-       <li class="pl-4">Teamwork</li>
-       <li>Meeting deadlines</li>
-       <li>Critical thinking</li>
-      </ul>
-     </section>
-     <!-- Language -->
-     <section>
-      <h2
-       class="text-xl font-extrabold tracking-widest border-b border-gray-400 pb-1 mb-4"
-       style="letter-spacing: 0.15em"
-      >
-       Language
-      </h2>
-      <ul class="text-sm space-y-1">
-       <li>Hindi</li>
-       <li>English</li>
-      </ul>
-     </section>
-    </aside>
-    <!-- Right content -->
-    <main class="md:w-2/3 space-y-8 text-sm md:text-base">
-     <!-- About me -->
-     <section>
-      <h2
-       class="text-xl font-extrabold tracking-widest border-b border-gray-400 pb-1 mb-4"
-       style="letter-spacing: 0.15em"
-      >
-       About me
-      </h2>
-      <p>
-       I am Akshay Gangwar, a passionate programmer with a strong interest in
-       technology, cloud computing, and web development. With five years of
-       experience in computer programming and cloud hosting, I have honed my
-       skills in various domains, including C programming, web design, and
-       Telegram bot development
-      </p>
-     </section>
-     <!-- Experience -->
-     <section>
-      <h2
-       class="text-xl font-extrabold tracking-widest border-b border-gray-400 pb-1 mb-4"
-       style="letter-spacing: 0.15em"
-      >
-       Experience
-      </h2>
-      <article class="mb-6">
-       <div class="flex justify-between font-semibold mb-1">
-        <h3 class="font-bold text-base">Bot Management</h3>
-        <span class="text-sm">Jan 2021 - Jan 2023</span>
-       </div>
-       <p class="mb-1 font-semibold">Developing For Team XT Telegram Community</p>
-       <p>
-        Developing and managing Telegram bots for automation and community
-        engagement.
-        <br />
-        Working on bot scripting, API integration, and cloud deployment.
-        <br />
-        Gained experience in Python (telethon/aiogram), server management, and
-        debugging.
-       </p>
-      </article>
-      <article class="mb-6">
-       <div class="flex justify-between font-semibold mb-1">
-        <h3 class="font-bold text-base">Python</h3>
-        <span class="text-sm">Jan 2022- jan 2023</span>
-       </div>
-       <p class="mb-1 font-semibold">Python &amp; C Language (2022 - 2023)</p>
-       <ul class="list-none space-y-1">
-        <li>
-         <i class="fas fa-check"></i>
-         Developed multiple projects using C and Python, including Telegram bots,
-         automation scripts, and web-based tools.
-        </li>
-        <li>
-         <i class="fas fa-check"></i>
-         Gained expertise in problem-solving, debugging, and API integration.
-        </li>
-       </ul>
-      </article>
-      <article>
-       <div class="flex justify-between font-semibold mb-1">
-        <h3 class="font-bold text-base">Projects</h3>
-        <span class="text-sm">Jan 2017 - Dec 2029</span>
-       </div>
-       <p class="mb-1 font-semibold">Github.com/Akshayxt</p>
-       <ul class="list-disc list-inside space-y-1">
-        <li>YouTube Video Downloader (yt-dlp based project integrated with HTML)</li>
-        <li>Telegram Bots (Developed multiple bots for automation and services)</li>
-        <li>
-         Web Hosting &amp; Cloud Deployment (Experience in hosting and managing
-         websites on cloud platforms)
-        </li>
-        <li>Telegram Group Management, Music, Auto Chat bot , Ai Assistant</li>
-       </ul>
-      </article>
-     </section>
-     <!-- Additional Contact Detail -->
-     <section>
-      <h2
-       class="text-xl font-extrabold tracking-widest border-b border-gray-400 pb-1 mb-4"
-       style="letter-spacing: 0.15em"
-      >
-       Additional Contact Detail
-      </h2>
-      <ul class="space-y-3 text-sm flex flex-col gap-3">
-       <li class="flex flex-col sm:flex-row sm:items-center sm:space-x-2">
-        <div class="flex items-center space-x-2">
-         <i class="fas fa-envelope"></i>
-         <span>Freefire.akshaygangwar@gmail.com</span>
-        </div>
-        <div class="flex items-center space-x-2 mt-2 sm:mt-0">
-         <i class="fas fa-globe"></i>
-         <a
-          class="underline break-all"
-          href="https://akshayxt.github.io/me/"
-          target="_blank"
-          >https://akshayxt.github.io/me/</a
-         >
-        </div>
-       </li>
-       <li class="flex items-center space-x-2">
-        <i class="fab fa-github"></i>
-        <a class="underline" href="https://github.com/AkshayXT" target="_blank"
-         >github.com/AkshayXT</a
-        >
-       </li>
-       <li class="flex items-center space-x-2">
-        <i class="fas fa-phone-alt"></i>
-        <span>+91 9720028582</span>
-       </li>
-      </ul>
-     </section>
-    </main>
-   </div>
-  </div>
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <meta name="description" content="𝙏𝙚𝙖𝙢 𝙓𝙏 𝙒𝙚𝙗𝙎𝙄𝙏𝙀 | 𝙊𝙣𝙚 𝙤𝙛 𝙩𝙝𝙚 𝙛𝙞𝙧𝙨𝙩 𝙬𝙚𝙗 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙗𝙮 𝘼𝙠𝙨𝙝𝙖𝙮 𝙂𝙖𝙣𝙜𝙬𝙖𝙧.">
+          <meta itemprop="name" content="𝐀𝐤𝐬𝐡𝐚𝐲 𝐆𝐚𝐧𝐠𝐰𝐚𝐫 Portfolio">
+          <meta itemprop="description" content="𝐀𝐤𝐬𝐡𝐚𝐲 𝐆𝐚𝐧𝐠𝐰𝐚𝐫 Portfolio | One of the first web development projects by TeamXT.">
+          <meta itemprop="image" content="https://raw.githubusercontent.com/akshayxt/Akshayxt/main/src/raxx.jpg">
+          <meta http-equiv="X-UA-Compatible" content="ie=edge">
+          <script src="https://kit.fontawesome.com/a81368914c.js"></script>
+          <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="src/style.css">
+          <title> Iᴀᴍ Akshayxt (@raxx_xt)</title>
+          <link rel="icon" href="https://vectorified.com/images/attack-on-titan-icon-31.png" type="image/x-icon">
+          <meta content="Akshayxt Portfolio" property="og:site_name">
+          <meta property="og:type" content="teamxtop">
+          <meta content="https://akshayxt.github.io/" property="og:url">
+          <meta content="RAX (@raxx_xt)" property="og:title">
+          <meta content="" property="og:image">
+          <meta content="Akshay Gangwar Portfolio | One of the first web development projects by Akshayxt." property="og:description">
+     </head>
 
-  <script>
-   // Remove the animation div after 3 seconds
-   setTimeout(() => {
-    const anim = document.getElementById("nameAnimation");
-    if (anim) {
-     anim.style.transition = "opacity 0.5s ease";
-     anim.style.opacity = "0";
-     setTimeout(() => {
-      anim.remove();
-     }, 500);
-    }
-   }, 3000);
-  </script>
- </body>
+<body id="body" class="dark" oncontextmenu="return false">
+     <div class="loader" id="loader">
+          <h1 data-value="Akshay Gangwar" id="loader-text">Click Me🎆</h1>
+     </div>
+     <div id="particles-js"></div>
+     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+     <div class="wrapper">
+          <div class="toggle">
+               <input class="toggle-input" type="checkbox" />
+               <div class="toggle-bg"></div>
+               <div class="toggle-switch">
+                    <div class="toggle-switch-figure"></div>
+                    <div class="toggle-switch-figureAlt"></div>
+               </div>
+          </div>
+     </div>
+
+     <div class="modal">
+          <img src="https://instagram.fdel25-3.fna.fbcdn.net/v/t51.2885-15/414489054_754664793197497_4857192516093517736_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=instagram.fdel25-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=qrKmzx90GosAX83lhQI&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzI3MDQ1Nzg5Mjg3NDIyNTI3OA%3D%3D.2-ccb7-5&oh=00_AfDqVpY_lSYmJbnJNHc5TLw-C-ZYFObRLPw0xCo672HR9A&oe=65BDBD81&_nc_sid=ee9879" alt="">
+          <div class="close"></div>
+     </div>
+
+     <div id="container" class="container">
+          <input type="checkbox" name="" id="check">
+          <div class="card">
+               <div class="sidebar" id="sidebar">
+                    <a class="active" href="https://github.com/akshayxt" target="_blank" rel="noopener noreferrer">Github</a>
+                    <a class="active" href="https://telegram.dog/rax_xt">Telegram</a>
+                    <a class="active" href="https://instagram.com/raxx_xt">Insta</a>
+               </div>
+               <div class="header" onclick="toggle()">
+                    <label for="check" class="checkbtn" id="chkbtn">
+                         <div class="hamburger-menu">
+                              <div class="center"></div>
+                         </div>
+                    </label>
+                    <a href="mailto: akshaygangwar@gmail.com" class="mail">
+                         <i class="far fa-envelope"></i>
+                    </a>
+                    <div class="main">
+                         <div class="image">
+                              <div class="hover">
+                                   <i class="fas fa-camera fa-2x"></i>
+                              </div>
+                         </div>
+                         <h3 class="name">Akshay Gangwar</h3>
+                         <h3 class="sub-name">@Rax_xt</h3>
+                    </div>
+               </div>
+
+               <div class="content">
+                    <div class="left">
+                         <div class="about-container">
+                              <h3 class="title">Aʙᴏᴜᴛ</h3>
+                              <p class="text">~ Tᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴅᴇᴠ | Bᴜɢ Bᴏᴜɴᴛɪɴɢ | Wᴇʙ Dᴇᴠᴇʟᴏᴘᴇʀ ~</p>
+                              <p class="text">• Pʏᴛʜᴏɴ | Tᴇʟᴇᴛʜᴏɴ | Pʏʀᴏɢʀᴀᴍ | Hᴛᴍʟ| C | C++ •</p>
+                         </div>
+                         <div class="icons-container">
+                              <a href="https://github.com/Akshayxt" class="icon">
+                                   <i class="fab fa-github"></i>
+                              </a>
+                              <a href="https://telegram.dog/rax_xt" class="icon">
+                                   <i class="fab fa-telegram"></i>
+                              </a>
+                              <a href="https://instagram.com/raxx_xt" class="icon">
+                                   <i class="fab fa-instagram"></i>
+                              </a>
+                         </div>
+                         <div class="buttons-wrap">
+                              <div class="follow-wrap">
+                                   <a href="https://instagram.com/raxx_xt" class="follow">Follow</a>
+                              </div>
+                              <div class="share-wrap">
+                                   <a href="https://github.com/akshayxt" class="share">More</a>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+     </div>
+     
+     <script>
+          document.onkeydown = function (e) {
+               if (event.keyCode == 123) {
+                    return false;
+               }
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+                    return false;
+               }
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
+                    return false;
+               }
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+                    return false;
+               }
+               if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+                    return false;
+               }
+          }
+     </script>
+     <script src="src/app.js"></script>
+     <script src="/src/contact-form.js" id="contactform" error_text="" success_text="" disable_waittime="true" form_worker_url="https://contactform.cfform.workers.dev/"></script>
+</body>
 </html>
