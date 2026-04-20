@@ -3,24 +3,28 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Akshayxt/Akshayxt/blob/main/Akshayxt.gif" width="180"/>
+  <a href="https://github.com/akshayxt">
+    <img src="https://github.com/Akshayxt/Akshayxt/blob/main/Akshayxt.gif" width="180"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=You+didn’t+come+here+by+accident...;Scroll+down...;This+is+not+a+normal+profile">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Akshayxt"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&lines=🌿+TEAM+XT+🌱;You+didn’t+come+here+by+accident...;This+is+not+a+template...">
 </p>
 
 ---
 
 ## 🧍 Who am I?
 
-I don’t just write code.
-I build **interfaces that feel alive**.
+I build interfaces that don’t feel static.
+They react. They move. They *pull attention*.
 
-Not templates.
-Not clones.
-
-But things that make people stop scrolling.
+Not noise.
+Just **impact**.
 
 ---
 
@@ -30,29 +34,25 @@ But things that make people stop scrolling.
 
 ---
 
-## ⚡ What I Do
+## 🚀 Selected Work (Glitch Mode ⚡)
 
-* Design experiences, not pages
-* Build visuals that feel interactive
-* Turn ideas into something people remember
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="700"/>
+</p>
 
----
-
-## 🚀 Selected Work
-
-### 🔹 Project 01 — “UI Experiment”
+### 🔹 UI Experiment
 
 > Built to hook attention.
 
-<img src="https://via.placeholder.com/700x350?text=Project+Preview"/>
-
 ---
 
-### 🔹 Project 02 — “Landing Experience”
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700"/>
+</p>
+
+### 🔹 Landing Experience
 
 > Smooth. Fast. Intentional.
-
-<img src="https://via.placeholder.com/700x350?text=Project+Preview"/>
 
 ---
 
@@ -66,16 +66,14 @@ But things that make people stop scrolling.
 
 Frontend → HTML, CSS, JavaScript
 Tools → Git, Figma
-Learning → React, Advanced UI
+Learning → React, Motion UI
 
 ---
 
 ## 🎯 Why I Build
 
-Because most interfaces are forgettable.
-
-I don’t want to add noise.
-I want to build **impact**.
+Most interfaces are forgettable.
+I build for **reaction**.
 
 ---
 
@@ -87,13 +85,13 @@ I want to build **impact**.
 
 ## ⚡ Current Focus
 
-* Creating high-end UI experiences
-* Building standout projects
-* Pushing creative limits
+* Experimental UI systems
+* High-impact visuals
+* Real-world projects
 
 ---
 
-## 📊 Proof (Minimal but strong)
+## 📊 Core Stats (Clean)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akshayxt&show_icons=true&theme=radical"/>
@@ -103,11 +101,53 @@ I want to build **impact**.
 
 ---
 
-## 📫 Let’s Work
+## 📈 Deep Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshayxt&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://ghactivity.mrayush.me/graph?username=Akshayxt&bg_color=000000&color=00FF00&line=00FF00"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshayxt&theme=transparent&no-bg=true&margin-w=15&margin-h=10"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10"/>
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Akshayxt/count.svg"/>
+</p>
+
+---
+
+## 📫 Contact
 
 <p align="center">
   <a href="https://t.me/akshay_xt">
-    <img src="https://img.shields.io/badge/Telegram-Contact-00FF00?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=61DAFB"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akshaygangwar.xt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/akshayxt">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
@@ -118,5 +158,5 @@ I want to build **impact**.
 </p>
 
 <p align="center">
-  <b>Not here to compete. Here to be different.</b>
+  <b>⚡ TEAM XT | Not built to impress. Built to stay in memory. ⚡</b>
 </p>
