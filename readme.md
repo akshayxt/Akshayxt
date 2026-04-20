@@ -12,8 +12,10 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=Akshayxt"/>
 </p>
 
+<!-- 🔥 CUSTOM GLITCH TEXT BANNER -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&lines=🌿+TEAM+XT+🌱;You+didn’t+come+here+by+accident...;This+is+not+a+template...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=⚡+TEAM+XT+SYSTEM+INITIALIZING...;ACCESS+GRANTED;AKSHAYXT+ONLINE;BUILDING+INTERFACES+THAT+FEEL+ALIVE"/>
 </p>
 
 ---
@@ -28,8 +30,10 @@ Just **impact**.
 
 ---
 
+<!-- 🧬 GLITCH DIVIDER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3&animation=fadeIn"/>
 </p>
 
 ---
@@ -56,8 +60,10 @@ Just **impact**.
 
 ---
 
+<!-- 🧬 GLITCH DIVIDER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3&animation=fadeIn"/>
 </p>
 
 ---
@@ -77,8 +83,10 @@ I build for **reaction**.
 
 ---
 
+<!-- 🧬 GLITCH DIVIDER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3&animation=fadeIn"/>
 </p>
 
 ---
