@@ -1,65 +1,168 @@
- ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/Akshayxt/Akshayxt/blob/main/Akshayxt.gif)](https://github.com/akshayxt)
-   [![Team_xt�](https://github-stats-alpha.vercel.app/api?username=Akshayxt "Akshayxt")](https://github-stats-alpha.vercel.app/api?username=Akshayxt "Akshayxt")
-                                                          
-  
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿𝐓𝐄𝐀𝐌+XT+🌱">
-
-
-<!--
-**Akshayxt/Akshayxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Akshayxt/count.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00FF00&height=230&section=header&text=AkshayXT&fontSize=60&fontColor=00FF00&animation=fadeIn&desc=Welcome%20to%20TEAM%20XT&descAlignY=60"/>
 </p>
-<!---
-Akshayxt/Akshayxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Akshayxt&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/akshayxt?achievement=quickdraw&tab=achievements)
-  
-
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshayxt&show_icons=true&locale=en&layout=compact" alt="Akshayxt" /></p>
-
-# Contribution Graph:
-
 
 <p align="center">
-  <a href="https://github.com/Akshayxt">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayxt#version3"/>
+  <img src="https://github.com/Akshayxt/Akshayxt/blob/main/Akshayxt.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=🌿+TEAM+XT+🌱;🚀+Web+Developer;⚡+Creative+Coder;🎨+UI/UX+Explorer;💻+Building+Futuristic+Interfaces">
+</p>
+
+---
+
+## 🌐 Portfolio
+
+🌍 **Live Portfolio:** https://your-portfolio-link.com
+
+---
+
+## 🌌 About Me
+
+```yaml id="v8y3xp"
+Name: Akshay
+Username: Akshayxt
+Role: Creative Developer
+Location: India
+Focus:
+  - Web Development 🌐
+  - UI/UX Design 🎨
+  - Creative Coding ⚡
+Goal: Build visually insane + high-performance projects
+```
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Portfolio Website**
+→ Live: https://your-site.com
+→ Code: https://github.com/your-repo
+
+🔹 **UI Experiment**
+→ Preview: (add GIF here)
+→ Tech: HTML, CSS, JS
+
+🔹 **Creative Landing Page**
+→ Live Demo + Code
+
+---
+
+## 📸 UI Showcase
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Your+Project+Preview"/>
+</p>
+
+---
+
+## ⚡ Currently Working On
+
+* 🔥 Advanced UI animations
+* 🚀 Portfolio v2
+* 🧠 Learning React / Three.js
+
+---
+
+## 🧠 Skills Breakdown
+
+**Frontend**
+
+* HTML, CSS, JavaScript
+
+**Tools**
+
+* Git, GitHub, VS Code, Figma
+
+**Learning**
+
+* React, Three.js
+
+---
+
+## 🧩 Dev Philosophy
+
+> "Design should feel alive, not static."
+
+---
+
+## ⚡ Custom Identity
+
+![Focus](https://img.shields.io/badge/Focus-Frontend-00FF00)
+![Vibe](https://img.shields.io/badge/Vibe-Cyberpunk-black)
+![Status](https://img.shields.io/badge/Open%20for-Projects-00FF00)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshayxt&theme=matrix&no-bg=true"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Akshayxt"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshayxt&show_icons=true&theme=radical"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshayxt&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayxt"/>
+</p>
+
+<p align="center">
+  <img src="https://ghactivity.mrayush.me/graph?username=Akshayxt&bg_color=000000&color=00FF00&line=00FF00"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma&perline=8"/>
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Akshayxt/count.svg"/>
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://t.me/akshay_xt">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=61DAFB"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akshaygangwar.xt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/akshayxt">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
-<a href="https://github.com/Akshayxt"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=Akshayxt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:302b63,100:0f0c29&height=150&section=footer"/>
+</p>
 
-# Github Streak ☠︎︎
-
-
-
-
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Akshayxt&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://Akshayxt.me)
-
-# 🛠️ Languages and tools☠︎︎
-</br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akshayxt&repo=github-readme-stats)](https://github.com/Akshayxt/Akshayxt)
-
-[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://Akshayxt.me)
-
-
-
-# My Stats☠︎︎
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshayxt&show_icons=true&theme=radical)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Akshayxt/Akshayxt)
-
-# Contact ☠︎︎
-<a href="https://t.me/akshay_xt"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=akshaygangwar.xt@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://youtube.com/akshayxt"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<p align="center">
+  <b>⚡ TEAM XT | Build. Break. Create. Repeat. ⚡</b>
+</p>
