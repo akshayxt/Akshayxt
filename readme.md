@@ -1,168 +1,78 @@
+<!-- 
+  🌌 NEXT-LEVEL FUTURISTIC GITHUB PROFILE README 🌌
+  Updated with cyberpunk/neon aesthetics, enhanced animations, 
+  radical theme for glowing stats, and smooth futuristic vibes.
+  Copy-paste this entire thing into your README.md
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00FF00&height=230&section=header&text=AkshayXT&fontSize=60&fontColor=00FF00&animation=fadeIn&desc=Welcome%20to%20TEAM%20XT&descAlignY=60"/>
+  <a href="https://github.com/Akshayxt">
+    <img src="https://github.com/Akshayxt/Akshayxt/blob/main/Akshayxt.gif" alt="Akshayxt Futuristic GIF" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px #00ffff;" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Akshayxt/Akshayxt/blob/main/Akshayxt.gif" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=00FFFF&center=true&vCenter=true&width=650&lines=🌌+TEAM+XT+🌌;⚡+NEXT+LEVEL+FUTURIST;🔮+CYBER+ENGINEER;🚀+INFINITE+CODE+RUNNER;💾+NEON+DEVELOPER+2077" alt="Futuristic Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=🌿+TEAM+XT+🌱;🚀+Web+Developer;⚡+Creative+Coder;🎨+UI/UX+Explorer;💻+Building+Futuristic+Interfaces">
+  <img src="https://profile-counter.glitch.me/Akshayxt/count.svg" alt="Visitors" />
+  <br>
+  <b>🌐 GLOBAL VISITORS TRACKING THE MATRIX</b>
 </p>
 
----
-
-## 🌐 Portfolio
-
-🌍 **Live Portfolio:** https://your-portfolio-link.com
-
----
-
-## 🌌 About Me
-
-```yaml id="v8y3xp"
-Name: Akshay
-Username: Akshayxt
-Role: Creative Developer
-Location: India
-Focus:
-  - Web Development 🌐
-  - UI/UX Design 🎨
-  - Creative Coding ⚡
-Goal: Build visually insane + high-performance projects
-```
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Portfolio Website**
-→ Live: https://your-site.com
-→ Code: https://github.com/your-repo
-
-🔹 **UI Experiment**
-→ Preview: (add GIF here)
-→ Tech: HTML, CSS, JS
-
-🔹 **Creative Landing Page**
-→ Live Demo + Code
-
----
-
-## 📸 UI Showcase
-
+<!-- Futuristic Trophies -->
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Your+Project+Preview"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshayxt&theme=radical&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true" alt="GitHub Trophies" />
 </p>
 
----
-
-## ⚡ Currently Working On
-
-* 🔥 Advanced UI animations
-* 🚀 Portfolio v2
-* 🧠 Learning React / Three.js
-
----
-
-## 🧠 Skills Breakdown
-
-**Frontend**
-
-* HTML, CSS, JavaScript
-
-**Tools**
-
-* Git, GitHub, VS Code, Figma
-
-**Learning**
-
-* React, Three.js
-
----
-
-## 🧩 Dev Philosophy
-
-> "Design should feel alive, not static."
-
----
-
-## ⚡ Custom Identity
-
-![Focus](https://img.shields.io/badge/Focus-Frontend-00FF00)
-![Vibe](https://img.shields.io/badge/Vibe-Cyberpunk-black)
-![Status](https://img.shields.io/badge/Open%20for-Projects-00FF00)
-
----
-
-## 🏆 Achievements
-
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshayxt&theme=matrix&no-bg=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshayxt&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
+<!-- Contribution & Activity Graphs -->
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Akshayxt"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshayxt&show_icons=true&theme=radical"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshayxt&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayxt"/>
+  <a href="https://github.com/Akshayxt">
+    <img src="https://streak-stats.demolab.com?user=Akshayxt&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&fire=00FFFF" alt="GitHub Streak - Neon Fire" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://ghactivity.mrayush.me/graph?username=Akshayxt&bg_color=000000&color=00FF00&line=00FF00"/>
+  <a href="https://github.com/Akshayxt">
+    <img alt="Activity Graph" src="https://ghactivity.mrayush.me/graph?username=Akshayxt&bg_color=0A0A0A&color=00FFFF&line=FF00FF&point=FFFFFF&hide_border=true" />
+  </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
+<!-- Languages & Tools - Futuristic Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10&theme=dark" alt="Skills" />
 </p>
 
----
-
-## 👀 Visitors
-
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Akshayxt/count.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshayxt&show_icons=true&theme=radical&hide_border=true&hide_title=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
----
+<!-- WakaTime (kept from your original - update username if needed) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=radical&hide_border=true" alt="WakaTime Stats" />
+</p>
 
-## 📫 Contact
-
+<!-- Contact - Neon Badges -->
 <p align="center">
   <a href="https://t.me/akshay_xt">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/TELEGRAM-00FFFF?style=for-the-badge&logo=telegram&logoColor=000000" alt="Telegram" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akshaygangwar.xt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://youtube.com/akshayxt">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YOUTUBE-00FFAA?style=for-the-badge&logo=youtube&logoColor=000000" alt="YouTube" />
   </a>
 </p>
 
----
-
+<!-- Footer Neon -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:302b63,100:0f0c29&height=150&section=footer"/>
-</p>
-
-<p align="center">
-  <b>⚡ TEAM XT | Build. Break. Create. Repeat. ⚡</b>
+  <img src="https://img.shields.io/badge/BUILT%20IN%20THE%20NEON%20GRID-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF" />
 </p>
