@@ -150,6 +150,21 @@ Next → React, Motion Systems
 
 ---
 
+<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+<br><br>
+
+<!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Akshayxt/Akshayxt/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshayxt/Akshayxt/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/Akshayxt/Akshayxt/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=140&section=footer"/>
 </p>
