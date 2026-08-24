@@ -27,7 +27,6 @@
 <!-- ⚡ SYSTEM GLITCH BOOT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=⚡+SYSTEM+INITIALIZING...;AKSHAYXT+ONLINE;CREATING+INTERFACES+THAT+FEEL+ALIVE;SCROLL+TO+ENTER"/>
 </p>
 
 ---
@@ -100,6 +99,7 @@ Next → React, Motion Systems
 
 ---
 
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
@@ -126,11 +126,6 @@ Next → React, Motion Systems
 </table>
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3"/>
-</p>
-
 ---
 
 ## 📊 Proof
@@ -140,6 +135,8 @@ Next → React, Motion Systems
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayxt"/>
 </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=⚡+SYSTEM+INITIALIZING...;AKSHAYXT+ONLINE;CREATING+INTERFACES+THAT+FEEL+ALIVE;SCROLL+TO+ENTER"/>
+
 
 ---
 
